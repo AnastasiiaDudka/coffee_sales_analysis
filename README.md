@@ -127,11 +127,3 @@ coffee_sales_analysis
 # Author
 
 **Anastasiia Dudka**
-
-Aspiring Data Analyst passionate about transforming data into meaningful business insights.
-
-- SQL
-- Python
-- Tableau
-- Power BI
-- Excel
